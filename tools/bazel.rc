@@ -1,0 +1,5 @@
+# Coloring for error messages.
+common --color=yes
+
+# Always print test errors.
+test --test_output=errors

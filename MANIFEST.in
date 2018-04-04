@@ -1,0 +1,2 @@
+include README.md LICENSE BUILD
+recursive-include tensorflow_compress BUILD
